@@ -121,7 +121,7 @@
  }
 
  .name{
-     font-size: 4rem;
+     font-size: 2rem;
      margin-top: 1rem;
      font-family: 'Open Sans', sans-serif;
      font-weight: 700;
@@ -147,7 +147,7 @@
  }
 
  .about-me{
-    font-size: 2rem;
+    font-size: 1.3rem;
     letter-spacing: normal;
     margin-bottom:20px;
  }
@@ -169,7 +169,7 @@
 
  .profile-pic{
      max-width: 80%;
-     border-radius: 20rem;
+     border-radius: 5rem;
      text-align: center;
      margin-left: 2rem;
  }
